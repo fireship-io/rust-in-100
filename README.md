@@ -32,7 +32,12 @@ Code formatting: [github.com/rust-lang/rustfmt](https://github.com/rust-lang/rus
 
 Crates: [crates.io](https://crates.io/)
 
-VS Code extensions:
+### VS Code extensions:
+
+- [Rust Lang](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+- [Rust Syntax](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.rust-syntax)
+- [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [Prettier TOML](https://marketplace.visualstudio.com/items?itemName=bodil.prettier-toml)
 
 ### Installation
 
