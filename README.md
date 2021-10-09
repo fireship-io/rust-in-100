@@ -61,15 +61,17 @@ Note:
 
 #### Options
 
-1. Restart your computer
+1. Restart your terminal and/or restart your computer
 
-2. Add Rust to PATH manually:
+-or-
+
+1. Add Rust to PATH manually:
 
 ```sh
 source $HOME/.cargo/env
 ```
 
-3. Add to your bash/zsh profile:
+2. Add to your bash/zsh profile:
 
 ```sh
 export PATH="$HOME/.cargo/bin:$PATH"
