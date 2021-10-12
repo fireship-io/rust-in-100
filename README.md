@@ -1,5 +1,7 @@
 ## Rust in 100 seconds
 
+Watch the [Rust in 100 Seconds Video](https://youtu.be/5C_HPTJg5ek).
+
 Article:
 [What is Rust, and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
 
